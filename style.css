@@ -1,0 +1,30 @@
+form
+{
+    margin: auto;
+    width: 14.5em;
+    padding: 0.5em;
+    background-image: url("img/light_honeycomb.png");
+    font-family: "Ubuntu", "sans-serif";
+    font: 700;
+}
+
+.submit
+{
+    margin-top: 0.5em;
+    background-color: cadetblue;
+    min-height: 2em;
+    min-width: 5em;
+    border-radius: 25%;
+    cursor: pointer;
+}
+
+.submit:hover
+{
+    background-color: #4f8e90;
+}
+
+p
+{
+    margin-top: 0.5em;
+    color: red;
+}

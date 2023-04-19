@@ -1,0 +1,5 @@
+user	- password
+-------------------------
+admin	- test
+niania	- FraniaApolonia
+gadzina	- DrConnors
