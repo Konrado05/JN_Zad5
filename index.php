@@ -3,6 +3,11 @@
     if(isset($_GET['logout']))
     {
         unset($_SESSION['logged']);
+        
+        unset($_SESSION['username']);
+        unset($_SESSION['firstname']);
+        unset($_SESSION['surname']);
+        unset($_SESSION['gender']);
     }
 
     if(isset($_SESSION['logged']))
